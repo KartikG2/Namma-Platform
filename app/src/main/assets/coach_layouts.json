@@ -1,0 +1,102 @@
+[
+  {
+    "trainNo": "16557",
+    "trainName": "Rajya Rani Express",
+    "coaches": ["Engine", "GEN", "GEN", "S1", "S2", "S3", "S4", "S5", "B1", "B2", "A1"]
+  },
+  {
+    "trainNo": "12628",
+    "trainName": "Karnataka Express",
+    "coaches": ["Engine", "GEN", "GEN", "S1", "S2", "S3", "S4", "S5", "S6", "S7", "PC", "B1", "B2", "B3", "A1", "A2", "H1", "GEN"]
+  },
+  {
+    "trainNo": "16022",
+    "trainName": "Kaveri Express",
+    "coaches": ["Engine", "GEN", "S1", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9", "B1", "B2", "A1", "GEN"]
+  },
+  {
+    "trainNo": "12079",
+    "trainName": "Jan Shatabdi",
+    "coaches": ["Engine", "D1", "D2", "D3", "D4", "D5", "D6", "D7", "D8", "C1", "C2"]
+  },
+  {
+    "trainNo": "11013",
+    "trainName": "Coimbatore Express",
+    "coaches": ["Engine", "GEN", "GEN", "S1", "S2", "S3", "S4", "B1", "B2", "A1", "GEN", "GEN"]
+  },
+  {
+    "trainNo": "16589",
+    "trainName": "Rani Chennamma Express",
+    "coaches": ["Engine", "GEN", "GEN", "S1", "S2", "S3", "S4", "S5", "S6", "B1", "B2", "B3", "A1", "A2", "GEN", "GEN"]
+  },
+  {
+    "trainNo": "12608",
+    "trainName": "Lalbagh Express",
+    "coaches": ["Engine", "D1", "D2", "D3", "D4", "D5", "D6", "D7", "C1", "C2"]
+  },
+  {
+    "trainNo": "12610",
+    "trainName": "Chennai Express",
+    "coaches": ["Engine", "GEN", "GEN", "S1", "S2", "S3", "S4", "B1", "A1", "GEN"]
+  },
+  {
+    "trainNo": "16535",
+    "trainName": "Golgumbaz Express",
+    "coaches": ["Engine", "GEN", "S1", "S2", "S3", "S4", "S5", "S6", "S7", "B1", "B2", "A1", "GEN"]
+  },
+  {
+    "trainNo": "16527",
+    "trainName": "Yesvantpur Express",
+    "coaches": ["Engine", "GEN", "S1", "S2", "S3", "S4", "S5", "B1", "B2", "A1", "GEN"]
+  },
+  {
+    "trainNo": "12028",
+    "trainName": "Shatabdi Express",
+    "coaches": ["Engine", "EOG", "C1", "C2", "C3", "C4", "C5", "C6", "C7", "C8", "E1", "EOG"]
+  },
+  {
+    "trainNo": "16228",
+    "trainName": "Talguppa Express",
+    "coaches": ["Engine", "GEN", "GEN", "S1", "S2", "S3", "S4", "S5", "B1", "A1", "GEN"]
+  },
+  {
+    "trainNo": "16515",
+    "trainName": "Karwar Express",
+    "coaches": ["Engine", "GEN", "S1", "S2", "S3", "S4", "S5", "S6", "B1", "B2", "A1", "GEN"]
+  },
+  {
+    "trainNo": "16210",
+    "trainName": "Ajmer Express",
+    "coaches": ["Engine", "GEN", "S1", "S2", "S3", "S4", "S5", "S6", "B1", "B2", "B3", "A1", "A2", "GEN"]
+  },
+  {
+    "trainNo": "16526",
+    "trainName": "Kanyakumari Express",
+    "coaches": ["Engine", "GEN", "GEN", "S1", "S2", "S3", "S4", "S5", "S6", "S7", "B1", "B2", "B3", "A1", "A2", "GEN"]
+  },
+  {
+    "trainNo": "16511",
+    "trainName": "Kannur Express",
+    "coaches": ["Engine", "GEN", "S1", "S2", "S3", "S4", "S5", "B1", "B2", "A1", "GEN"]
+  },
+  {
+    "trainNo": "12257",
+    "trainName": "Kochuveli Garib Rath",
+    "coaches": ["Engine", "G1", "G2", "G3", "G4", "G5", "G6", "G7", "G8", "G9", "G10", "G11", "G12"]
+  },
+  {
+    "trainNo": "16315",
+    "trainName": "Kochuveli Express",
+    "coaches": ["Engine", "GEN", "S1", "S2", "S3", "S4", "S5", "S6", "B1", "B2", "A1", "GEN"]
+  },
+  {
+    "trainNo": "12678",
+    "trainName": "Ernakulam Express",
+    "coaches": ["Engine", "GEN", "D1", "D2", "D3", "D4", "D5", "C1", "GEN"]
+  },
+  {
+    "trainNo": "12684",
+    "trainName": "Ernakulam SF Express",
+    "coaches": ["Engine", "GEN", "S1", "S2", "S3", "S4", "S5", "S6", "B1", "B2", "A1", "GEN"]
+  }
+]

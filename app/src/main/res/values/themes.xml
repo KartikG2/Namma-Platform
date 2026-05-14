@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme (for splash) -->
+    <style name="Theme.NammaPlatform" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+    <!-- Splash screen theme -->
+    <style name="Theme.NammaPlatform.Splash" parent="Theme.NammaPlatform">
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>
