@@ -34,12 +34,15 @@ At small railway stations across Karnataka (Arsikere, Tumkur, Hassan, Birur, Tip
 
 ## 📸 Screenshots
 
-> *(Add screenshots here after building — drag and drop images into this section on GitHub)*
 
-| Station Selection | Train Dashboard | Coach Layout | Live Map |
-|---|---|---|---|
-| ![Station](screenshots/station_selection.png) | ![Dashboard](screenshots/train_dashboard.png) | ![Coach](screenshots/coach_layout.png) | ![Map](screenshots/train_map.png) |
 
+| Splash Screen | Station Selection |
+|:---:|:---:|
+| <img width="166" height="367" alt="Splash Screen" src="https://github.com/user-attachments/assets/0a212838-b4d4-4f81-9a5c-8b7d37bb015b" /> | <img width="166" height="367" alt="Station Selection" src="https://github.com/user-attachments/assets/e849292c-b713-4b17-a69c-58f19c72c48c" /> |
+ 
+| Train Dashboard | Coach Layout | Live Map |
+|:---:|:---:|:---:|
+| <img width="164" height="366" alt="Train Dashboard" src="https://github.com/user-attachments/assets/38c48c68-aff4-430e-8240-2c40f42d2d12" /> | <img width="166" height="370" alt="Coach Layout" src="https://github.com/user-attachments/assets/5a29abb9-da8e-4b04-909b-456dab0db77e" /> | <img width="166" height="370" alt="Live Map" src="https://github.com/user-attachments/assets/39ab20c6-b8f0-4882-9522-8ce091edd14a" /> |
 ---
 
 ## 🛠️ Tech Stack
